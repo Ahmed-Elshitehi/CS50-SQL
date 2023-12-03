@@ -8,7 +8,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [x] [Players](/0-Querying/Players)
 
 - [ ] **Week 1 : [Relating](https://cs50.harvard.edu/sql/2023/psets/1/)**
-  - [ ] [Packages](/1-%20Relating/Packages)
+  - [x] [Packages](/1-%20Relating/Packages)
   - [ ] [DESE](/1-%20Relating/DESE)
   - [ ] [Moneyball](/1-%20Relating/Moneyball)
      
