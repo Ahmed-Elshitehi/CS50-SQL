@@ -13,7 +13,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [x] [Moneyball](/1-%20Relating/moneyball)
      
 - [ ] **Week 2 : [Designing](https://cs50.harvard.edu/sql/2023/psets/2/)**
-  - [ ] [ATL](/2-%20Designing/ATL)
+  - [X] [ATL](/2-%20Designing/atl)
   - [ ] [Happy to Connect](/2-%20Designing/Happy%20to%20Connect)
   - [ ] [Union Square Donuts](/2-%20Designing/Union%20Square%20Donuts)
 
