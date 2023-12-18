@@ -12,10 +12,10 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [X] [DESE](/1-%20Relating/dese)
   - [x] [Moneyball](/1-%20Relating/moneyball)
      
-- [ ] **Week 2 : [Designing](https://cs50.harvard.edu/sql/2023/psets/2/)**
+- [X] **Week 2 : [Designing](https://cs50.harvard.edu/sql/2023/psets/2/)**
   - [X] [ATL](/2-%20Designing/atl)
   - [X] [Happy to Connect](/2-%20Designing/happy%20to%20connect)
-  - [ ] [Union Square Donuts](/2-%20Designing/Union%20Square%20Donuts)
+  - [X] [Union Square Donuts](/2-%20Designing/donuts)
 
 - [ ] **Week 3 : [Writing](https://cs50.harvard.edu/sql/2023/psets/3/)**
   - [ ] [Don’t Panic!](/3-%20Writing/Don't%20Panic!)
