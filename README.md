@@ -14,7 +14,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
      
 - [ ] **Week 2 : [Designing](https://cs50.harvard.edu/sql/2023/psets/2/)**
   - [X] [ATL](/2-%20Designing/atl)
-  - [ ] [Happy to Connect](/2-%20Designing/Happy%20to%20Connect)
+  - [X] [Happy to Connect](/2-%20Designing/happy%20to%20connect)
   - [ ] [Union Square Donuts](/2-%20Designing/Union%20Square%20Donuts)
 
 - [ ] **Week 3 : [Writing](https://cs50.harvard.edu/sql/2023/psets/3/)**
