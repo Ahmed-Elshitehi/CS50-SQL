@@ -18,7 +18,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [X] [Union Square Donuts](/2-%20Designing/donuts)
 
 - [ ] **Week 3 : [Writing](https://cs50.harvard.edu/sql/2023/psets/3/)**
-  - [ ] [Don’t Panic!](/3-%20Writing/Don't%20Panic!)
+  - [X] [Don’t Panic!](/3-%20Writing/dont-panic)
   - [ ] [Meteorite Cleaning](/3-%20Writing/Meteorite%20Cleaning)
 
 - [ ] **Week 4 : [Viewing](https://cs50.harvard.edu/sql/2023/psets/4/)**
