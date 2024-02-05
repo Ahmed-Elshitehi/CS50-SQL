@@ -21,10 +21,10 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [X] [Don’t Panic!](/3-%20Writing/dont-panic)
   - [X] [Meteorite Cleaning](/3-%20Writing/meteorites)
 
-- [x] **Week 4 : [Viewing](https://cs50.harvard.edu/sql/2023/psets/4/)**
-  - [x] [Census Taker](/4-%20Viewing/census)
-  - [x] [The Private Eye](/4-%20Viewing/private)
-  - [x] [Bed and Breakfast](/4-%20Viewing/bnb)
+- [X] **Week 4 : [Viewing](https://cs50.harvard.edu/sql/2023/psets/4/)**
+  - [X] [Census Taker](/4-%20Viewing/census)
+  - [X] [The Private Eye](/4-%20Viewing/private)
+  - [X] [Bed and Breakfast](/4-%20Viewing/bnb)
 
 - [ ] **Week 5 : [Optimizing](https://cs50.harvard.edu/sql/2023/psets/5/)**
   - [ ] [your.harvard](/5-%20Optimizing/your.harvard)
